@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AttendApp</string>
+    <string name="in_work">出勤する</string>
+    <string name="out_work">退勤する</string>
+    <string name="back">戻る</string>
+    <string name="in_work_th">出勤</string>
+    <string name="out_work_th">退勤</string>
+    <string name="none">-</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Button
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="400dp"
+    android:layout_height="120dp"
+    android:layout_gravity="center"
+    android:layout_margin="5dp"
+    android:background="@drawable/back_menu_btn"
+    android:onClick="clickMenuBack"
+    android:text="@string/back"
+    android:textColor="#000"
+    android:textSize="30sp" />
